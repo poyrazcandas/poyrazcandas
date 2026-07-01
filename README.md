@@ -1,6 +1,8 @@
 ## ΉΣᄂᄂӨ!
 
-Welcome to my profile.
+♦️ Carnegie Mellon
+
+Most repos are private.
 
 
 <!--
