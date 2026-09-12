@@ -4,8 +4,6 @@
 
 Higher-level finance projects are mostly in private repos.
 
-Can connect with me via e-mail: poyrazc.personal@gmail.com
-
 <!--
 **poyrazcandas/poyrazcandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
