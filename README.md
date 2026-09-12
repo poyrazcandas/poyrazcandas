@@ -2,7 +2,7 @@
 
 ♦️ Carnegie Mellon 🐕‍🦺
 
-Higher-level finance projects are mostly in private repos (NDA).
+Higher-level finance projects are mostly in private repos.
 
 Can connect with me via e-mail: poyrazc.personal@gmail.com
 
