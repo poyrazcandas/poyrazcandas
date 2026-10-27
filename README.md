@@ -2,7 +2,7 @@
 
 ♦️ Carnegie Mellon 🐕‍🦺
 
-Higher-level finance projects are mostly in private repos.
+Passionate of building random stuff.
 
 <!--
 **poyrazcandas/poyrazcandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
